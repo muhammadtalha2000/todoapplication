@@ -1,0 +1,56 @@
+#head {
+    text-align: center;
+}
+
+#inp {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    margin-left: 380px;
+    margin-top: 60px;
+    outline: none;
+    font-size: 20px;
+}
+
+#addbtn {
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 100px;
+    outline: none;
+    margin-left: 20px;
+    border-bottom: lightgray;
+}
+
+#deletebtn {
+    background-color: red;
+    color: white;
+    height: 40px;
+    width: 100px;
+    outline: none;
+    margin-left: 20px;
+}
+
+#delbtn {
+    width: 100px;
+    height: 75px;
+    margin-top: 10px;
+    /* margin-left: 10px; */
+    justify-content: space-between;
+}
+
+#editbtn {
+    width: 80px;
+    height: 70px;
+    margin-top: 10px;
+    /* margin-left: 10px; */
+    justify-content: space-between;
+}
+
+#list{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+ #li {
+     text-align: center;
+ }
